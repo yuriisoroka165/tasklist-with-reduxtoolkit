@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasklist-with-reduxtoolkit/static/css/main.668be256.css",
+    "main.js": "/tasklist-with-reduxtoolkit/static/js/main.c32b148b.js",
+    "index.html": "/tasklist-with-reduxtoolkit/index.html",
+    "main.668be256.css.map": "/tasklist-with-reduxtoolkit/static/css/main.668be256.css.map",
+    "main.c32b148b.js.map": "/tasklist-with-reduxtoolkit/static/js/main.c32b148b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668be256.css",
+    "static/js/main.c32b148b.js"
+  ]
+}
